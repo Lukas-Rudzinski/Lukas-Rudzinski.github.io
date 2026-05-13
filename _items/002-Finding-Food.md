@@ -22,7 +22,7 @@ entryauthor:
   name: "Lukas Rudzinski"
   affiliation: "Germanic Studies at UT Austin"
 img:
-  file: https://github.com/user-attachments/assets/20fb09c1-760c-464c-aff1-c88c09e42d52
+  file:https://github.com/user-attachments/assets/20fb09c1-760c-464c-aff1-c88c09e42d52
 
 creationdate: 2026-01-29
 ---
