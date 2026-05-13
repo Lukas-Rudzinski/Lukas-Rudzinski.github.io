@@ -1,3 +1,4 @@
+<img width="1600" height="1161" alt="hut" src="https://github.com/user-attachments/assets/9e494b28-ca8c-469b-89cc-41dd490aaf3f" />
 ---
 layout: pilgrimage
 title: "Building Shelter"
@@ -23,7 +24,8 @@ author:
   name: "Lukas Rudzinski"
   affiliation: "Germanic Studies Dept. at UT Austin"
 img:
-  file: hut.jpg
+  file: hut.jpg<img width="1600" height="1161" alt="hut" src="https://github.com/user-attachments/assets/ff8abf9c-7a68-4d48-bcdc-ec16a56eaf32" />
+
   credit: 
     
 creationdate: 2026-01-29
