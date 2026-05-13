@@ -1,6 +1,7 @@
 ---
 layout: pilgrimage
 title: "Finding Food"
+categories: 
 mapurl: "https://www.google.com/maps/place/Shawnee,+OH/@40.7404772,5044m/data=!3m1!1e3!4m6!3m5!1s0x884807568f30be73:0x7d11f288a3d07ac3!8m2!3d39.6047915!4d-82.2115368!16zL20vMHowcTY?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
 clue: "Find me at the biggest hill in the area"
 shortdesc: >
