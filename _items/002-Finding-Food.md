@@ -12,9 +12,7 @@ medievalmapurl: "https://www.google.com/maps/place/F%C3%B3lkvangur+Neskaupsta%C3
 medievalparallel: |
     Fólkvangur Neskaupstaðar is the perfect fishing place near the newly-built shelter. There are even rocks for more tools! 
 
-   Having made shelter, the settlers needed to immediately find a reliable source of food. Having spent an entire cross-ocean journey on a boat, fishing is the familiar mode of finding food. It was surely repetitive and boring by this point, but it does the trick until they can find a reliable source of land-animal food. 
-
-
+    Having made shelter, the settlers needed to immediately find a reliable source of food. Having spent an entire cross-ocean journey on a boat, fishing is the familiar mode of finding food. It was surely repetitive and boring by this point, but it does the trick until they can find a reliable source of land-animal food. 
 learnmore: |
     - Read Amundsen et al. (2005) to learn about fishing in Medieval Iceland
 
