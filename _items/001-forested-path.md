@@ -18,8 +18,8 @@ medievalparallel: |
 learnmore: |
     - Watch videos by Primitive Technology on Youtube. 
 medievallat: 64.7001844
-medievallong:-20.4369409
-
+medievallong: -20.4369409
+author:
   name: "Lukas Rudzinski"
   affiliation: "Germanic Studies Dept. at UT Austin"
 img:
