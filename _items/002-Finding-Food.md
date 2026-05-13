@@ -22,7 +22,7 @@ entryauthor:
   name: "Lukas Rudzinski"
   affiliation: "Germanic Studies at UT Austin"
 img:
-  file: <img width="570" height="366" alt="Icelandfishing" src="https://github.com/user-attachments/assets/20fb09c1-760c-464c-aff1-c88c09e42d52" />
+  file: <img "https://github.com/user-attachments/assets/20fb09c1-760c-464c-aff1-c88c09e42d52" />
 
 creationdate: 2026-01-29
 ---
